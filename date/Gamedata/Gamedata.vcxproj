@@ -127,6 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="123.c" />
+    <ClCompile Include="asd.c" />
     <ClCompile Include="Gamedata.c" />
     <ClCompile Include="Gamedata.cpp" />
   </ItemGroup>

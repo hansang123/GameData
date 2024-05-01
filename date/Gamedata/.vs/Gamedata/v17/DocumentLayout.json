@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\gamedatateam\\date\\Gamedata\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB11F19B-8B29-45CD-AB83-00AEA234FED9}|Gamedata.vcxproj|C:\\gamedatateam\\date\\Gamedata\\Gamedata.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB11F19B-8B29-45CD-AB83-00AEA234FED9}|Gamedata.vcxproj|solutionrelative:Gamedata.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB11F19B-8B29-45CD-AB83-00AEA234FED9}|Gamedata.vcxproj|C:\\gamedatateam\\date\\Gamedata\\123.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB11F19B-8B29-45CD-AB83-00AEA234FED9}|Gamedata.vcxproj|solutionrelative:123.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "123.c",
+              "DocumentMoniker": "C:\\gamedatateam\\date\\Gamedata\\123.c",
+              "RelativeDocumentMoniker": "123.c",
+              "ToolTip": "C:\\gamedatateam\\date\\Gamedata\\123.c",
+              "RelativeToolTip": "123.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-27T12:04:47.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gamedata.c",
+              "DocumentMoniker": "C:\\gamedatateam\\date\\Gamedata\\Gamedata.c",
+              "RelativeDocumentMoniker": "Gamedata.c",
+              "ToolTip": "C:\\gamedatateam\\date\\Gamedata\\Gamedata.c",
+              "RelativeToolTip": "Gamedata.c",
+              "ViewState": "AQIAAAsDAAAAAAAAAAAAABEDAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-27T12:02:10.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

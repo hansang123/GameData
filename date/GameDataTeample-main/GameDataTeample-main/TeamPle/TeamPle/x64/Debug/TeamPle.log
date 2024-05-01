@@ -1,0 +1,13 @@
+﻿  main.c
+C:\Users\OEM\Desktop\GameDataTeample-main (2)\GameDataTeample-main\TeamPle\main.c(288,21): warning C4098: 'Dungeon1': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\OEM\Desktop\GameDataTeample-main (2)\GameDataTeample-main\TeamPle\main.c(310,13): warning C4098: 'Dungeon1': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\OEM\Desktop\GameDataTeample-main (2)\GameDataTeample-main\TeamPle\main.c(418,21): warning C4098: 'Dungeon2': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\OEM\Desktop\GameDataTeample-main (2)\GameDataTeample-main\TeamPle\main.c(440,13): warning C4098: 'Dungeon2': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\OEM\Desktop\GameDataTeample-main (2)\GameDataTeample-main\TeamPle\main.c(526,21): warning C4098: 'Dungeon3': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\OEM\Desktop\GameDataTeample-main (2)\GameDataTeample-main\TeamPle\main.c(548,13): warning C4098: 'Dungeon3': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\OEM\Desktop\GameDataTeample-main (2)\GameDataTeample-main\TeamPle\main.c(630,21): warning C4098: 'Dungeon4': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\OEM\Desktop\GameDataTeample-main (2)\GameDataTeample-main\TeamPle\main.c(652,13): warning C4098: 'Dungeon4': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\OEM\Desktop\GameDataTeample-main (2)\GameDataTeample-main\TeamPle\main.c(752,21): warning C4098: 'Dungeon5': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\OEM\Desktop\GameDataTeample-main (2)\GameDataTeample-main\TeamPle\main.c(774,13): warning C4098: 'Dungeon5': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\OEM\Desktop\GameDataTeample-main (2)\GameDataTeample-main\TeamPle\main.c(815,17): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  TeamPle.vcxproj -> C:\Users\OEM\Desktop\GameDataTeample-main (2)\GameDataTeample-main\TeamPle\x64\Debug\TeamPle.exe

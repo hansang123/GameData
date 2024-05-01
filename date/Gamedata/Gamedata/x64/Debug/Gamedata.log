@@ -1,0 +1,215 @@
+﻿  123.c
+C:\gamedatateam\date\Gamedata\123.c(1,1): error C2059: 구문 오류: '?'
+C:\gamedatateam\date\Gamedata\123.c(1,2): error C2014: 전처리기 명령은 공백 아닌 문자로 시작해야 합니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime.h(386,61): error C2146: 구문 오류: ')'이(가) '_StackCookie' 식별자 앞에 없습니다.
+  (소스 파일 '123.c'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime.h(386,61): error C2061: 구문 오류: 식별자 '_StackCookie'
+  (소스 파일 '123.c'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime.h(386,61): error C2059: 구문 오류: ';'
+  (소스 파일 '123.c'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime.h(386,73): error C2059: 구문 오류: ')'
+  (소스 파일 '123.c'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime.h(387,77): error C2146: 구문 오류: ')'이(가) '_StackCookie' 식별자 앞에 없습니다.
+  (소스 파일 '123.c'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime.h(387,77): error C2061: 구문 오류: 식별자 '_StackCookie'
+  (소스 파일 '123.c'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime.h(387,77): error C2059: 구문 오류: ';'
+  (소스 파일 '123.c'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime.h(387,89): error C2059: 구문 오류: ')'
+  (소스 파일 '123.c'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime.h(391,18): error C2061: 구문 오류: 식별자 '__security_cookie'
+  (소스 파일 '123.c'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime.h(391,18): error C2059: 구문 오류: ';'
+  (소스 파일 '123.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(368,10): error C2081: 'uintptr_t': 정식 매개 변수 목록에 있는 이름이 잘못되었습니다.
+  (소스 파일 '123.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(380,26): error C2146: 구문 오류: ')'이(가) '_Reserved' 식별자 앞에 없습니다.
+  (소스 파일 '123.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(380,26): error C2081: 'uintptr_t': 정식 매개 변수 목록에 있는 이름이 잘못되었습니다.
+  (소스 파일 '123.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(380,26): error C2061: 구문 오류: 식별자 '_Reserved'
+  (소스 파일 '123.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(380,26): error C2059: 구문 오류: ';'
+  (소스 파일 '123.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(380,35): error C2059: 구문 오류: ')'
+  (소스 파일 '123.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stddef.h(57,27): error C2143: 구문 오류: '{'이(가) '__cdecl' 앞에 없습니다.
+  (소스 파일 '123.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdlib.h(168,10): error C2081: 'uintptr_t': 정식 매개 변수 목록에 있는 이름이 잘못되었습니다.
+  (소스 파일 '123.c'을(를) 컴파일하는 중)
+  
+C:\gamedatateam\date\Gamedata\123.c(109,9): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\gamedatateam\date\Gamedata\123.c(132,13): warning C4013: 'scanf_s'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\gamedatateam\date\Gamedata\123.c(134,20): warning C4013: 'getchar'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\gamedatateam\date\Gamedata\123.c(288,21): warning C4098: 'Dungeon1': 'void' 함수에서 값을 반환하고 있습니다.
+C:\gamedatateam\date\Gamedata\123.c(310,13): warning C4098: 'Dungeon1': 'void' 함수에서 값을 반환하고 있습니다.
+C:\gamedatateam\date\Gamedata\123.c(418,21): warning C4098: 'Dungeon2': 'void' 함수에서 값을 반환하고 있습니다.
+C:\gamedatateam\date\Gamedata\123.c(440,13): warning C4098: 'Dungeon2': 'void' 함수에서 값을 반환하고 있습니다.
+C:\gamedatateam\date\Gamedata\123.c(526,21): warning C4098: 'Dungeon3': 'void' 함수에서 값을 반환하고 있습니다.
+C:\gamedatateam\date\Gamedata\123.c(548,13): warning C4098: 'Dungeon3': 'void' 함수에서 값을 반환하고 있습니다.
+C:\gamedatateam\date\Gamedata\123.c(630,21): warning C4098: 'Dungeon4': 'void' 함수에서 값을 반환하고 있습니다.
+C:\gamedatateam\date\Gamedata\123.c(652,13): warning C4098: 'Dungeon4': 'void' 함수에서 값을 반환하고 있습니다.
+C:\gamedatateam\date\Gamedata\123.c(752,21): warning C4098: 'Dungeon5': 'void' 함수에서 값을 반환하고 있습니다.
+C:\gamedatateam\date\Gamedata\123.c(774,13): warning C4098: 'Dungeon5': 'void' 함수에서 값을 반환하고 있습니다.
+  Gamedata.c
+C:\gamedatateam\date\Gamedata\Gamedata.c(1,4): error C2014: 전처리기 명령은 공백 아닌 문자로 시작해야 합니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vadefs.h(61,35): error C2054: '﻿' 다음에 '('가 필요합니다.
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vadefs.h(61,35): error C2085: 'uintptr_t': 정식 매개 변수 목록에 없습니다.
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vadefs.h(72,23): error C2085: 'va_list': 정식 매개 변수 목록에 없습니다.
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vadefs.h(155,36): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vadefs.h(155,18): error C2082: '__va_start' 정식 매개 변수 재정의
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vadefs.h(155,36): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vadefs.h(155,43): error C2059: 구문 오류: ')'
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime.h(386,61): error C2146: 구문 오류: ')'이(가) '_StackCookie' 식별자 앞에 없습니다.
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime.h(386,61): error C2061: 구문 오류: 식별자 '_StackCookie'
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime.h(386,61): error C2059: 구문 오류: ';'
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime.h(386,73): error C2059: 구문 오류: ')'
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime.h(387,77): error C2146: 구문 오류: ')'이(가) '_StackCookie' 식별자 앞에 없습니다.
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime.h(387,77): error C2061: 구문 오류: 식별자 '_StackCookie'
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime.h(387,77): error C2059: 구문 오류: ';'
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime.h(387,89): error C2059: 구문 오류: ')'
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime.h(391,18): error C2061: 구문 오류: 식별자 '__security_cookie'
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime.h(391,18): error C2059: 구문 오류: ';'
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(368,10): error C2081: 'uintptr_t': 정식 매개 변수 목록에 있는 이름이 잘못되었습니다.
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(380,26): error C2146: 구문 오류: ')'이(가) '_Reserved' 식별자 앞에 없습니다.
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(380,26): error C2081: 'uintptr_t': 정식 매개 변수 목록에 있는 이름이 잘못되었습니다.
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(380,26): error C2061: 구문 오류: 식별자 '_Reserved'
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(380,26): error C2059: 구문 오류: ';'
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(380,35): error C2059: 구문 오류: ')'
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stddef.h(57,27): error C2143: 구문 오류: '{'이(가) '__cdecl' 앞에 없습니다.
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdlib.h(168,10): error C2081: 'uintptr_t': 정식 매개 변수 목록에 있는 이름이 잘못되었습니다.
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winbase.h(2474,22): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winbase.h(2474,22): error C2081: 'va_list': 정식 매개 변수 목록에 있는 이름이 잘못되었습니다.
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winbase.h(2474,22): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winbase.h(2475,5): error C2059: 구문 오류: ')'
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winbase.h(2489,22): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winbase.h(2489,22): error C2081: 'va_list': 정식 매개 변수 목록에 있는 이름이 잘못되었습니다.
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winbase.h(2489,22): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winbase.h(2490,5): error C2059: 구문 오류: ')'
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(309,18): error C2146: 구문 오류: ')'이(가) 'arglist' 식별자 앞에 없습니다.
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(309,18): error C2081: 'va_list': 정식 매개 변수 목록에 있는 이름이 잘못되었습니다.
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(309,18): error C2061: 구문 오류: 식별자 'arglist'
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(309,18): error C2059: 구문 오류: ';'
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(309,25): error C2059: 구문 오류: ')'
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(316,18): error C2146: 구문 오류: ')'이(가) 'arglist' 식별자 앞에 없습니다.
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(316,18): error C2081: 'va_list': 정식 매개 변수 목록에 있는 이름이 잘못되었습니다.
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(316,18): error C2061: 구문 오류: 식별자 'arglist'
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(316,18): error C2059: 구문 오류: ';'
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(316,25): error C2059: 구문 오류: ')'
+  (소스 파일 'Gamedata.c'을(를) 컴파일하는 중)
+  
+C:\gamedatateam\date\Gamedata\Gamedata.c(109,9): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\gamedatateam\date\Gamedata\Gamedata.c(132,13): warning C4013: 'scanf_s'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\gamedatateam\date\Gamedata\Gamedata.c(134,20): warning C4013: 'getchar'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\gamedatateam\date\Gamedata\Gamedata.c(288,21): warning C4098: 'Dungeon1': 'void' 함수에서 값을 반환하고 있습니다.
+C:\gamedatateam\date\Gamedata\Gamedata.c(310,13): warning C4098: 'Dungeon1': 'void' 함수에서 값을 반환하고 있습니다.
+C:\gamedatateam\date\Gamedata\Gamedata.c(418,21): warning C4098: 'Dungeon2': 'void' 함수에서 값을 반환하고 있습니다.
+C:\gamedatateam\date\Gamedata\Gamedata.c(440,13): warning C4098: 'Dungeon2': 'void' 함수에서 값을 반환하고 있습니다.
+C:\gamedatateam\date\Gamedata\Gamedata.c(526,21): warning C4098: 'Dungeon3': 'void' 함수에서 값을 반환하고 있습니다.
+C:\gamedatateam\date\Gamedata\Gamedata.c(548,13): warning C4098: 'Dungeon3': 'void' 함수에서 값을 반환하고 있습니다.
+C:\gamedatateam\date\Gamedata\Gamedata.c(630,21): warning C4098: 'Dungeon4': 'void' 함수에서 값을 반환하고 있습니다.
+C:\gamedatateam\date\Gamedata\Gamedata.c(652,13): warning C4098: 'Dungeon4': 'void' 함수에서 값을 반환하고 있습니다.
+C:\gamedatateam\date\Gamedata\Gamedata.c(752,21): warning C4098: 'Dungeon5': 'void' 함수에서 값을 반환하고 있습니다.
+C:\gamedatateam\date\Gamedata\Gamedata.c(774,13): warning C4098: 'Dungeon5': 'void' 함수에서 값을 반환하고 있습니다.
+  코드를 생성하고 있습니다...
